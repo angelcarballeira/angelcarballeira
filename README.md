@@ -28,7 +28,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo y sigo expandiendo 
 Si tienes una oportunidad laboral, quieres colaborar en un proyecto o simplemente charlar de código, ¡no dudes en contactarme!
 
 - 📧 **Email:** [angelcarballeira@gmail.com](mailto:angelcarballeira@gmail.com)
-- 💼 **LinkedIn:** [Angel Carballeira](https://www.linkedin.com/in/angel-carballeira/) *(¡Asegúrate de agregar este enlace si tienes perfil!)*
+- 💼 **LinkedIn:** [Angel Carballeira](https://www.linkedin.com/in/angel-carballeira/) 
 
 ---
 <p align="center">
