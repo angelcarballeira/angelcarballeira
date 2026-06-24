@@ -31,6 +31,4 @@ Si tienes una oportunidad laboral, quieres colaborar en un proyecto o simplement
 - 💼 **LinkedIn:** [Angel Carballeira](https://www.linkedin.com/in/angel-carballeira/) 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelcarballeira&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
-</p>
+
